@@ -3,6 +3,7 @@
 - [ ] change logo (hama)
 - [ ] change buttons colors to match the logo colors (hama)
 - [ ] remove shop now sections (hama)
+- [ ] center elements in the navbar (hama)
 ## Home
 - [ ] change the images and add a text "learn today code tomorrow" (hajji)
 - [ ] change "sign up for excursion" button to "contact us" that takes to Contact us page (hajji)
