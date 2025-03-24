@@ -8,7 +8,7 @@
 - [x] change the images and add a text "learn today code tomorrow" (hajji)
 - [x] change "sign up for excursion" button to "contact us" that takes to Contact us page (hajji)
 ## A Few Words about us
-- [ ] remove the statistical numbers (hama)
+- [x] remove the statistical numbers (hama)
 - [ ] change the text (hama)
 - [ ] add an image (hama)
 ## Our Featured Courses
