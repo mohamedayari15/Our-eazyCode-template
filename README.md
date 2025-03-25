@@ -13,10 +13,10 @@
 - [x] add an image (hama)
 ## Our Featured Courses
 - [ ] add details page for each course (hajji)
-- [ ] digital marketing (hajji)
-- [ ] web development (hajji)
-- [ ] AI (hajji)
-- [ ] delete view all courses button (hajji)
+- [x] digital marketing (hajji)
+- [x] web development (hajji)
+- [x] AI (hajji)
+- [x] delete view all courses button (hajji)
 ## footer
 - [x] redesign the footer (hama)
 
