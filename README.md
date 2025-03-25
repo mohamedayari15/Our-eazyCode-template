@@ -18,7 +18,7 @@
 - [ ] AI (hajji)
 - [ ] delete view all courses button (hajji)
 ## footer
-- [ ] redesign the footer (hama)
+- [x] redesign the footer (hama)
 
 ## about page
 - [ ] remove our history section (hama)
