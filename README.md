@@ -9,8 +9,8 @@
 - [x] change "sign up for excursion" button to "contact us" that takes to Contact us page (hajji)
 ## A Few Words about us
 - [x] remove the statistical numbers (hama)
-- [ ] change the text (hama)
-- [ ] add an image (hama)
+- [x] change the text (hama)
+- [x] add an image (hama)
 ## Our Featured Courses
 - [ ] add details page for each course (hajji)
 - [ ] digital marketing (hajji)
