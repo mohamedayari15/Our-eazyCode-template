@@ -23,6 +23,6 @@
 ## about page
 - [x] remove our history section (hama)
 - [x] remove Testimonials section (hama)
-- [ ] change Academic Programs section to contain (digital marketing, web dev, AI) (hama)
+- [x] change Academic Programs section to contain (digital marketing, web dev, AI) (hama)
 ## contacts page
 - [x] remove google maps section (hajji)
