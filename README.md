@@ -21,8 +21,8 @@
 - [x] redesign the footer (hama)
 
 ## about page
-- [ ] remove our history section (hama)
-- [ ] remove Testimonials section (hama)
+- [x] remove our history section (hama)
+- [x] remove Testimonials section (hama)
 - [ ] change Academic Programs section to contain (digital marketing, web dev, AI) (hama)
 ## contacts page
 - [x] remove google maps section (hajji)
