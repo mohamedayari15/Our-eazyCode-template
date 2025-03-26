@@ -12,7 +12,7 @@
 - [x] change the text (hama)
 - [x] add an image (hama)
 ## Our Featured Courses
-- [ ] add details page for each course (hajji)
+- [x] add details page for each course (hajji)
 - [x] digital marketing (hajji)
 - [x] web development (hajji)
 - [x] AI (hajji)
