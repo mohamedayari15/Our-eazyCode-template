@@ -32,7 +32,7 @@
 
 ## Next 
 - [X] add the same header and footer and the preload animation (kal logo ou ta7tou loader) to the new pages (I moved the styles of these pages to a new file `pageStyle.css` because there are some duplicate classes) you need to add the html in the pages and find the classes that are used in there and copy them from `style.css` and put them in `pageStyle.css` and if there is some bootstrap classes you need to import that also
-- [X] try to make the design for the pages better (jareb a3tih lel chat ou 9olou rani ne5dem bi bootstrap ou zebi taw ya3tik 7aja behya)
+- [X] attempt to improve the design of the pages (consult with the team and mention that you are using Bootstrap; they may provide valuable feedback)
 - [X] add images in the about page
 - [ ] try to find a better design for the footer (nzidou n3abouh chwaya)
 - [ ] change swiper pagination points color (lawej 3lihom fi style.css)
