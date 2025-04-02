@@ -36,4 +36,7 @@
 - [X] add images in the about page
 - [X] try to find a better design for the footer (nzidou n3abouh chwaya)
 - [ ] change swiper pagination points color (lawej 3lihom fi style.css)
+- [ ] Contact us page (hajji) 
+- [x] Footer update feautres (hama)
+- [x] about parag and video
 
