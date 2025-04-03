@@ -10005,7 +10005,7 @@ html.tablet .ui-to-top {
 }
 
 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active, .swiper-pagination .swiper-pagination-bullet:hover {
-	background: #ff923d;
+	background: #0d6efd;
 }
 
 .swiper-pagination.swiper-pagination-clickable .swiper-pagination-bullet {
@@ -10045,7 +10045,7 @@ html.tablet .ui-to-top {
 
 .swiper-pagination.swiper-pagination-modern .swiper-pagination-bullet-active,
 .swiper-pagination.swiper-pagination-modern .swiper-pagination-bullet:hover {
-	background: #6027FF;
+	background: #0d6efd;
 	transform: scale3d(1.75, 1.75, 1);
 }
 
